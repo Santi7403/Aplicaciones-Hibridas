@@ -3,8 +3,8 @@
 ## Iniciamos un Repositorio Nuevo
 - Configurar el usuario
 ``` bash
-    git config --globla user.name "Jonathan"
-    git config --global user.email "jonathan.cruz@davinci.edu.ar"
+    git config --globla user.name "Santi"
+    git config --global user.email "santiagomartinezdonde@gmail.com"
 ``` 
 
 
