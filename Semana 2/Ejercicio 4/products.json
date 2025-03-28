@@ -1,0 +1,97 @@
+[
+    {
+      "name": "Mouse2",
+      "price": 300,
+      "id": "1"
+    },
+    {
+      "name": "Mouse2",
+      "price": 300,
+      "id": "0d9208fa-81a3-4417-b580-72545ab0febe"
+    },
+    {
+      "name": "parlante",
+      "price": 500,
+      "id": "757486f7-1a2d-4c96-a78f-ca8074899ac9"
+    },
+    {
+      "name": "parlante",
+      "price": 500,
+      "id": "76a25dd8-8df4-40b5-ac97-1886cb2ff673"
+    },
+    {
+      "name": "parlante",
+      "price": 500,
+      "id": "84c3d052-c4e6-48b5-920f-65c5898ae36c"
+    },
+    {
+      "name": "parlante",
+      "price": 500,
+      "id": "59bbb7bb-22dd-4f35-945d-0de530503f25"
+    },
+    {
+      "name": "dos",
+      "price": 500,
+      "id": "e9fb7f5a-ec05-40dc-a205-dd9ca0ecb0d0"
+    },
+    {
+      "name": "uno",
+      "price": 3000,
+      "id": "76a5f1a4-8199-4d57-a586-85a45681ce99"
+    },
+    {
+      "name": "dos",
+      "price": 500,
+      "id": "d22c2d13-665e-427e-b760-a066b4d9874e"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "301bd24e-c55e-403c-95e1-f4cdef7e5606"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "56eba196-a89e-4a5d-9636-13f9a5019f71"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "8abc2d1a-7879-4c95-a96a-8041e24b9844"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "16c6efe0-87a4-458a-97d6-df4b6ff65bf4"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "e2ae9d7a-9af5-4a0d-90da-29165e1ca57f"
+    },
+    {
+      "name": "cuatro",
+      "price": 500,
+      "id": "c111e930-9fec-4915-be51-925c310c71fb"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "2303333b-433f-4214-93cf-d9e806121b12"
+    },
+    {
+      "name": "cuatro",
+      "price": 500,
+      "id": "618c39ad-3c32-4170-9684-c5a72388aeb9"
+    },
+    {
+      "name": "tres",
+      "price": 3000,
+      "id": "98558b3f-aa8f-49f9-a86f-993dd29ec79d"
+    },
+    {
+      "name": "cuatro",
+      "price": 500,
+      "id": "d7cbd927-640e-40b2-a083-36748bc07588"
+    }
+  ]
